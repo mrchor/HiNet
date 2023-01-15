@@ -1,0 +1,95 @@
+{
+  "data_schema": {
+    "feature_group": {
+      "scenario_indicator": {
+        "dtype": "int64",
+        "default_value": 0,
+        "operator": "raw_numeric",
+        "reshape": false,
+        "dimension": 1,
+        "features": [
+          "scenario_id"
+        ]
+      },
+      "scenario_indicator_embedding": {
+        "dtype": "int64",
+        "default_value": 0,
+        "operator": "embedding",
+        "reshape": false,
+        "dimension": 64,
+        "features": {
+          "scenario_id": [1,2,3,4,5,6]
+        }
+      },
+      "features": {
+        "dtype": "float32",
+        "default_value": 0.0,
+        "operator": "raw_numeric",
+        "dimension": 5,
+        "reshape": false,
+        "features": [
+          "feature_1",
+          "feature_2",
+          "feature_3",
+          "feature_4",
+          "feature_5",
+          "feature_6",
+          "feature_7",
+          "feature_8",
+          "feature_9",
+          "feature_10"
+        ]
+      }
+    },
+    "labels": {
+      "scernario_a_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_a_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_b_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_b_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_c_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_c_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_d_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_d_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_e_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_e_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_f_is_click": {
+        "dtype": "int64",
+        "default_value": 0
+      },
+      "scernario_f_is_order": {
+        "dtype": "int64",
+        "default_value": 0
+      }
+    }
+  }
+}
