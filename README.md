@@ -1,7 +1,7 @@
 # Introduction
 <u>H</u>ierarchical <u>i</u>nformation extraction <u>Net</u>work (HiNet)
 
-Source code for paper: <font face=Times New Roman>HiNet: A Novel Multi-Scenario & Multi-Task Learning Approach with Hierarchical Information Extraction</font>
+Source code for paper: <font face=Times New Roman>HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction</font>
 
 Model architecture:
 
