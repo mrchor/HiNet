@@ -22,3 +22,4 @@ You can modify the "FLAGS" parameters as needed.
 
 # Acknowledgement
  - The work is supported by [MeiTuan](https://www.meituan.com).
+ - The work is also supported by the National Natural Science Foundation of China (No. 62202025 and 62002012)
