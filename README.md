@@ -17,9 +17,10 @@ Bibtex:
 ```
 
 ## Requirements
-
+```
 Python >= 3.7  
 Tensorflow >= 1.15.0  
+```
 
 ## Train and Evaluate Model
 
@@ -31,3 +32,12 @@ You can modify the "FLAGS" parameters as needed.
 # Acknowledgement
  - The work is supported by [MeiTuan](https://www.meituan.com).
  - The work is also supported by the National Natural Science Foundation of China (No. 62202025 and 62002012).
+
+# Model Gain Statistics
+As of the latest time, HiNet model was deployed to several companies' business lines, and according to incomplete statistics, the business benefits of each company are as follows:
+
+| Platform         | Gain                                                             |
+|------------------|------------------------------------------------------------------|
+ | Meituan catering | Relative order volume uplift of 1%-5% across multiple businesses. |
+ | OPPO Advertising | 1% increase in CTR                                               |
+| ...              | ...                                                              |
