@@ -39,5 +39,6 @@ As of the latest time, HiNet model was deployed to several companies' business l
 | Platform         | Gain                                                             |
 |------------------|------------------------------------------------------------------|
  | Meituan catering | Relative order volume uplift of 1%-5% across multiple businesses. |
- | OPPO Advertising | 1% increase in CTR                                               |
+ | OPPO Advertising | 1% increase in CTR.                                               |
+ | AutoNavi Search  | 10% increase in CVR.                                              |
 | ...              | ...                                                              |
