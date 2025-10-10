@@ -9,7 +9,7 @@ Model architecture:
 
 Bibtex:
 ```sh
-@article{Zhou2023HiNet,
+@article{zhou2023hinet,
   title={HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction},
   author={Zhou, Jie and Cao, Xianshuai and Li, Wenhao and Bo, Lin and Luo, Chuan and Yu, Qian},
   year={2023},
